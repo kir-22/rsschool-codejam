@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kir-22/rsschool-codejam/issues"
   },
-  "homepage": "https://github.com/kir-22/rsschool-codejam#readme"
+  "homepage": "https://github.com/kir-22/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
 }
