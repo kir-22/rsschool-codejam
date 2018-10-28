@@ -15,3 +15,4 @@ const make = (...args)=>{
   f.toString = function(){return val;}
   return f;
 }
+module.exports = make;
