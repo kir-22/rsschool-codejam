@@ -5,3 +5,4 @@ const sumOfOther = (array) => {
   });
   return result;
 }
+module.exports = sumOfOther;
